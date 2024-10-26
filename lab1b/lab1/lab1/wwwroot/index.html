@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WebSockets</title>
+</head>
+<body>
+    <header><h1>Web Sockets</h1></header>
+    <section style="width: 800px; float: left;">
+        <div id="wsproperties">
+            Web Sockets поддерживается?:
+            <span id="support"></span><br />
+        </div>
+    </section>
+    <br />
+    <section style="width: 215px; border: solid;">
+        <div style="margin: 5px;">
+            <input id="start" type="button" value="Start" onclick="exe_start()" style="width: 100px" />
+            <input id="stop" type="button" value="Stop" onclick="exe_stop()" style="width: 100px" />
+            <textarea id="output" rows="20" cols="25" style="text-align: center;" readonly>
+            </textarea>
+        </div>
+    </section>
+    <script>
+        var output;
+        var ws = null;
+        var btn_start;
+        var btn_stop;
+        window.onload = () => {
+            output = document.getElementById("output");
+            btn_start = document.getElementById("start");
+            btn_stop = document.getElementById("stop");
+            btn_start.disabled = false;
+            btn_stop.disabled = true;
+        }
+
+        function exe_start() {
+            if (ws == null) {//7023, 5104
+                ws = new WebSocket('ws://localhost:5032/ws');
+                ws.onopen = () => ws.send('Connection');
+                ws.onclose = (s) => console.log('onclose', d);
+                ws.onmessage = (evt) => { output.innerHTML += '\n' + evt.data; }
+                btn_start.disabled = true;
+                btn_stop.disabled = false;
+            }
+        }
+
+        function exe_stop() {
+            ws.close(3001, 'stopapplication');
+            ws = null;
+            btn_start.disabled = false;
+            btn_stop.disabled = true;
+        }
+    </script>
+</body>
+</html>

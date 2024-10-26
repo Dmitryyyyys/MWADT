@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUxM1Apw67GUWOyJwRjErzp7gA+6XEqVUx75S0VH7KHZEDPs+SAz4XzjUQ/X7UtJ9AclWYQ595hgm/Ct3wxYew==",
+  "success": true,
+  "projectFilePath": "C:\\labs\\СТРВП\\lab1\\lab1a\\HTTPHANDLER\\HTTPHANDLER\\HTTPHANDLER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37529\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "FY63ssZW0b0rZgoF0wQHFdL8hDDGJ2CijneRMoeJBtE=",
+  "Source": "HTTPHANDLER",
+  "BasePath": "_content/HTTPHANDLER",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HTTPHANDLER\\wwwroot",
+      "Source": "HTTPHANDLER",
+      "ContentRoot": "C:\\labs\\СТРВП\\lab1\\lab1a\\HTTPHANDLER\\HTTPHANDLER\\wwwroot\\",
+      "BasePath": "_content/HTTPHANDLER",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\labs\\СТРВП\\lab1\\lab1a\\HTTPHANDLER\\HTTPHANDLER\\wwwroot\\dima5.html",
+      "SourceId": "HTTPHANDLER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\labs\\СТРВП\\lab1\\lab1a\\HTTPHANDLER\\HTTPHANDLER\\wwwroot\\",
+      "BasePath": "_content/HTTPHANDLER",
+      "RelativePath": "dima5.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dima5.html"
+    },
+    {
+      "Identity": "C:\\labs\\СТРВП\\lab1\\lab1a\\HTTPHANDLER\\HTTPHANDLER\\wwwroot\\dima6.html",
+      "SourceId": "HTTPHANDLER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\labs\\СТРВП\\lab1\\lab1a\\HTTPHANDLER\\HTTPHANDLER\\wwwroot\\",
+      "BasePath": "_content/HTTPHANDLER",
+      "RelativePath": "dima6.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dima6.html"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "tlpDDIva6vFjZpjDsaZdPyJCK+GRB4XthPyhUqX/JxI=",
+  "Source": "lab1",
+  "BasePath": "_content/lab1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab1\\wwwroot",
+      "Source": "lab1",
+      "ContentRoot": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\wwwroot\\",
+      "BasePath": "_content/lab1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\lab1.styles.css",
+      "SourceId": "lab1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/lab1",
+      "RelativePath": "lab1.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\lab1.styles.css"
+    },
+    {
+      "Identity": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\lab1.bundle.scp.css",
+      "SourceId": "lab1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/lab1",
+      "RelativePath": "lab1.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\lab1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\wwwroot\\favicon.ico",
+      "SourceId": "lab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\wwwroot\\",
+      "BasePath": "_content/lab1",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\wwwroot\\index.html",
+      "SourceId": "lab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\labs\\СТРВП\\lab1b\\lab1\\lab1\\wwwroot\\",
+      "BasePath": "_content/lab1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
