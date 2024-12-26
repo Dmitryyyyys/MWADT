@@ -1,0 +1,28 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@hostname=localhost
+@port=7154
+
+GET https://{{hostname}}:{{port}}/Start/Index
+###
+GET https://{{hostname}}:{{port}}/Start/One
+###
+GET https://{{hostname}}:{{port}}/Start/Two
+###
+GET https://{{hostname}}:{{port}}/Start/Three
+
+###
+POST https://{{hostname}}:{{port}}/Start/Index
+
+###
+POST https://{{hostname}}:{{port}}/Start/One
+###
+POST https://{{hostname}}:{{port}}/Start/Two
+###
+POST https://{{hostname}}:{{port}}/Start/Three
+
+### 
+#404
+GET https://{{hostname}}:{{port}}/XXXX
+###
+#BSTU
+GET https://belstu.by
