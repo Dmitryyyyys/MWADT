@@ -1,0 +1,44 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@hostname=localhost
+@port = 7173
+
+###
+GET https://{{hostname}}:{{port}}/TMResearch/M01/3
+###
+GET https://{{hostname}}:{{port}}/TMResearch/M01
+###
+GET https://{{hostname}}:{{port}}/TMResearch
+
+###?
+GET https://{{hostname}}:{{port}}/
+###
+GET https://{{hostname}}:{{port}}/V2/TMResearch/M01
+###
+GET https://{{hostname}}:{{port}}/TMResearch/M01
+###
+###?
+GET https://{{hostname}}:{{port}}/V3/TMResearch/id/M01
+
+### GET M02
+###
+GET https://{{hostname}}:{{port}}/V2
+###
+GET https://{{hostname}}:{{port}}/V2/TMResearch
+###?
+
+GET https://{{hostname}}:{{port}}/V2/TMResearch/M02
+
+###?
+
+GET https://{{hostname}}:{{port}}/V3/TMResearch/assdsadas/M02
+### GET M03
+### 
+GET https://{{hostname}}:{{port}}/V3
+### 
+GET https://{{hostname}}:{{port}}/V3/TMResearch/asdhjk
+
+### 
+GET https://{{hostname}}:{{port}}/V3/TMResearch/aslkkd/M03
+### GET MO4
+###
+GET https://{{hostname}}:{{port}}/V3asddsa
