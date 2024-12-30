@@ -1,0 +1,21 @@
+﻿<div style="display:flex;gap:10px">
+@using (Html.BeginForm("Sum","Calc",FormMethod.Post))
+{
+  <input type="submit" name="press" value="Sum"/>
+}
+
+@using (Html.BeginForm("Sub", "Calc", FormMethod.Post))
+{
+    <input type="submit" name="press" value="Sub" />
+}
+
+@using (Html.BeginForm("Mul", "Calc", FormMethod.Post))
+{
+    <input type="submit" name="press" value="Mul" />
+}
+
+@using (Html.BeginForm("Div", "Calc", FormMethod.Post))
+{
+    <input type="submit" name="press" value="Div" />
+}
+</div>

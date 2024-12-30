@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\models\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\models\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\models\\calcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\models\\calcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\staticdata\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\staticdata\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\data\\migrations\\20241221023709_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\data\\migrations\\20241221023709_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\shared\\_calclink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\shared\\_calclink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\shared\\_calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\shared\\_calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\home\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\home\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\home\\deleterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\home\\deleterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\home\\removerolesfromuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\home\\removerolesfromuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\home\\assignrolestouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\home\\assignrolestouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|c:\\labs\\\u0441\u0442\u0440\u0432\u043F\\calc\\calc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260DA4CE-5323-4D10-A520-2FC70FD2579A}|Calc\\Calc.csproj|solutionrelative:calc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 37,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13050943:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1997951853:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2031669256:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:253279231:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2088629290:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:311361673:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1553926390:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:430974520:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1651208718:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:71951129:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "Calc\\Models\\RoleViewModel.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\RoleViewModel.cs",
+              "RelativeToolTip": "Calc\\Models\\RoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:50:15.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "Calc\\Models\\Roles.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\Roles.cs",
+              "RelativeToolTip": "Calc\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:49:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Calc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Calc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:49:57.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalcModel.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\CalcModel.cs",
+              "RelativeDocumentMoniker": "Calc\\Models\\CalcModel.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\CalcModel.cs",
+              "RelativeToolTip": "Calc\\Models\\CalcModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:49:55.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Calc\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "Calc\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:52:24.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StaticData.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\StaticData\\StaticData.cs",
+              "RelativeDocumentMoniker": "Calc\\StaticData\\StaticData.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\StaticData\\StaticData.cs",
+              "RelativeToolTip": "Calc\\StaticData\\StaticData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:52:01.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Calc\\Models\\User.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\User.cs",
+              "RelativeToolTip": "Calc\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:51:49.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241221023709_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Data\\Migrations\\20241221023709_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Calc\\Data\\Migrations\\20241221023709_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Data\\Migrations\\20241221023709_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Calc\\Data\\Migrations\\20241221023709_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:04:16.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Calc\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Calc\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:04:10.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Calc\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Calc\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:03:02.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_CalcLink.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Shared\\_CalcLink.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Shared\\_CalcLink.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Shared\\_CalcLink.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Shared\\_CalcLink.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T06:17:27.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Calc.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Shared\\_Calc.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Shared\\_Calc.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Shared\\_Calc.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Shared\\_Calc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T06:16:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Calc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T06:16:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T06:09:51.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CalcController.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Controllers\\CalcController.cs",
+              "RelativeDocumentMoniker": "Calc\\Controllers\\CalcController.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Controllers\\CalcController.cs",
+              "RelativeToolTip": "Calc\\Controllers\\CalcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:07:48.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T06:06:57.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Calc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T06:02:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T05:52:09.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Calc\\Models\\UserRole.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\UserRole.cs",
+              "RelativeToolTip": "Calc\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:16:47.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T03:46:40.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Home\\DeleteUser.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\DeleteUser.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Home\\DeleteUser.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T03:45:59.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteRole.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\DeleteRole.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Home\\DeleteRole.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\DeleteRole.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Home\\DeleteRole.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T03:44:42.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RemoveRolesFromUser.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\RemoveRolesFromUser.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Home\\RemoveRolesFromUser.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\RemoveRolesFromUser.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Home\\RemoveRolesFromUser.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T03:40:11.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRolesViewModel.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\UserRolesViewModel.cs",
+              "RelativeDocumentMoniker": "Calc\\Models\\UserRolesViewModel.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Models\\UserRolesViewModel.cs",
+              "RelativeToolTip": "Calc\\Models\\UserRolesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:36:43.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssignRolesToUser.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\AssignRolesToUser.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Home\\AssignRolesToUser.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\AssignRolesToUser.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Home\\AssignRolesToUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T03:34:31.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Calc\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "Calc\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T03:31:23.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Calc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Calc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:45:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Program.cs",
+              "RelativeDocumentMoniker": "Calc\\Program.cs",
+              "ToolTip": "C:\\labs\\\u0421\u0422\u0420\u0412\u041F\\Calc\\Calc\\Program.cs",
+              "RelativeToolTip": "Calc\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:28:43.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

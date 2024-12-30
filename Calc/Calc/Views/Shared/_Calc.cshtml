@@ -1,0 +1,18 @@
+﻿@model dynamic
+
+@{
+    string xValue = ViewBag.x?.ToString();
+    string yValue = ViewBag.y?.ToString();
+    string zValue = ViewBag.z?.ToString();
+}
+<div>
+   
+        <input   name="x" value="@xValue"/>
+    
+   
+        <input name="y" value="@yValue" />
+    
+   
+        <input type="text" name="z" value="@zValue" readonly/>
+    
+</div>
